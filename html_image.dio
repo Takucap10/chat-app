@@ -1,0 +1,25 @@
+<mxfile host="65bd71144e">
+    <diagram id="084vzW9Nk5QVqvfI6mJz" name="ページ1">
+        <mxGraphModel dx="651" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="90" width="480" height="480" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="#253141&lt;br&gt;&lt;br&gt;side-bar class" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;fillColor=#15102A;" vertex="1" parent="1">
+                    <mxGeometry x="-100" y="240" width="480" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="300px" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="510" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="ffff" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;strokeColor=#AFF076;fillColor=#6B6B6B;" vertex="1" parent="1">
+                    <mxGeometry x="137.5" y="177.5" width="480" height="305" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="300px" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.65;dx=22;" vertex="1" parent="1">
+                    <mxGeometry x="220" y="510" width="310" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
