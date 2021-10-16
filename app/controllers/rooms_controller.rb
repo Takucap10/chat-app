@@ -16,9 +16,9 @@ def create
   end
 end
 
-private
+  private
 
-def room_params
-  params.require(:room).permit(:name, user_ids: [])
-end
+  def room_params
+    params.require(:room).permit(:name, user_ids: [])
+  end
 end
